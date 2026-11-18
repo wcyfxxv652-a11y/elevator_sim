@@ -1,0 +1,12 @@
+,value
+passengers,3141.0
+delivered %,100.0
+mean wait (s),8.043616682585164
+median wait (s),6.0
+95th pct wait (s),23.0
+max wait (s),64.0
+waits > 60 s (%),0.06367398917542184
+mean ride (s),21.26774912448265
+mean journey (s),29.311365807067812
+car busy (%),34.01874566072669
+mean car load,0.3864961814394816
